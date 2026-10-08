@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">键盘高度缩放</string>
     <string name="number_row">数字行</string>
     <string name="number_row_summary">对于具有 4 行按键的所有布局，始终显示数字行</string>
+    <string name="number_row_password">用于密码输入的数字行</string>
+    <string name="number_row_password_summary">对于所有包含4行按键的布局，在密码输入时始终显示数字行</string>
     <string name="space_trackpad">空格键触控板</string>
     <string name="space_trackpad_summary">滑动空格键即可移动光标</string>
+    <string name="backspace_trackpad">退格键触控板</string>
+    <string name="backspace_trackpad_summary">在退格键上滑动以删除单词</string>
     <string name="show_longpress_hints">显示长按键提示</string>
     <string name="show_longpress_hints_summary">显示受支持按键的长按提示</string>
     <string name="show_emoji_key">显示表情符号键</string>

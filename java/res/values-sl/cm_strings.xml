@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Merilo višine tipkovnice</string>
     <string name="number_row">Vrstica s številkami</string>
     <string name="number_row_summary">Vedno prikaži vrstico s številkami za vse 4-vrstične postavitve gumbov</string>
+    <string name="number_row_password">Vrstica s številkami za gesla</string>
+    <string name="number_row_password_summary">Vedno prikaži vrstico s številkami za vse razporeditve, ki vsebujejo štiri vrstice tipk za vnos gesla</string>
     <string name="space_trackpad">Sledilna ploščica preslednice</string>
     <string name="space_trackpad_summary">Potegnite po preslednici za premik kazalca</string>
+    <string name="backspace_trackpad">Sledilna ploščica vračalke</string>
+    <string name="backspace_trackpad_summary">Potegnite po vračalki za izbris besed</string>
     <string name="show_longpress_hints">Prikaži namige pridržanja tipke</string>
     <string name="show_longpress_hints_summary">Prikaže namige pridržanja tipke za podprte tipke</string>
     <string name="show_emoji_key">Prikaži tipko za izrazne ikone</string>

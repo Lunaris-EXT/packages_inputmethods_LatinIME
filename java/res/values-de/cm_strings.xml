@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Tastaturhöhenskalierung</string>
     <string name="number_row">Zahlenreihe</string>
     <string name="number_row_summary">Zahlenreihe bei Tastaturbelegungen mit 4 Tastenreihen immer anzeigen</string>
+    <string name="number_row_password">Zahlenzeile für Passwörter</string>
+    <string name="number_row_password_summary">Bei Passworteingaben immer eine Nummernzeile für alle Layouts mit 4 Tastenreihen anzeigen</string>
     <string name="space_trackpad">Leertaste als Touchpad</string>
     <string name="space_trackpad_summary">Wische über die Leertaste, um den Cursor zu bewegen</string>
+    <string name="backspace_trackpad">Zurück-Taste als Trackpad</string>
+    <string name="backspace_trackpad_summary">Wische über die Zurück-Taste, um Wörter zu löschen</string>
     <string name="show_longpress_hints">Hinweise bei langem Tastendruck anzeigen</string>
     <string name="show_longpress_hints_summary">Zeigt Hinweise bei langem Tastendruck für unterstützte Tasten</string>
     <string name="show_emoji_key">Emoji-Taste anzeigen</string>

@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Altezza tastiera</string>
     <string name="number_row">Riga numeri</string>
     <string name="number_row_summary">Mostra sempre la riga dei numeri per tutti i layout con quattro righe di tasti</string>
+    <string name="number_row_password">Riga dei numeri per le password</string>
+    <string name="number_row_password_summary">Mostra sempre la riga dei numeri per tutti i layout con quattro righe di tasti quando si digita una password</string>
     <string name="space_trackpad">Spostamento tramite barra spaziatrice</string>
     <string name="space_trackpad_summary">Scorri sulla barra spaziatrice per spostare il cursore</string>
+    <string name="backspace_trackpad">Trackpad sul tasto Backspace</string>
+    <string name="backspace_trackpad_summary">Scorri sulla tasto Backspace per eliminare le parole</string>
     <string name="show_longpress_hints">Simboli di pressione prolungata</string>
     <string name="show_longpress_hints_summary">Mostra i simboli di pressione prolungata per i tasti che li prevedono</string>
     <string name="show_emoji_key">Mostra tasto emoji</string>

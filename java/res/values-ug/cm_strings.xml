@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">ھەرپتاختا ئېگىزلىك نىسبىتى</string>
     <string name="number_row">قۇر سانى</string>
     <string name="number_row_summary">تۆت قۇرلۇق ھەرپ ئورۇنلاشتۇرۇلغان جايلاشتۇرۇشقا نىسبەتەن ھەمىشە رەقەم قۇرىنى كۆرسىتىدۇ</string>
+    <string name="number_row_password">ئىم كىرگۈزىدىغان سان قۇرى</string>
+    <string name="number_row_password_summary">ئىم كىرگۈزىدىغان تۆت قۇرلۇق ھەرپ ئورۇنلاشتۇرۇلغان جايلاشتۇرۇشقا نىسبەتەن ھەمىشە رەقەم قۇرىنى كۆرسىتىدۇ</string>
     <string name="space_trackpad">بوشلۇق كۇنۇپكا سەزگۈر تاختا</string>
     <string name="space_trackpad_summary">بوشلۇق كۇنۇپكا سېيرىلسا سىنبەلگە يۆتكىلىدۇ</string>
+    <string name="backspace_trackpad">backspace كۇنۇپكا سەزگۈر تاختىسى</string>
+    <string name="backspace_trackpad_summary">سۆز ئۆچۈرۈشتە backspace كۇنۇپكىسىنىڭ ئۈستىدە سىيرىلىدۇ</string>
     <string name="show_longpress_hints">ئۇزۇن بېسىلسا ئەسكەرتىشنى كۆرسىتىدۇ</string>
     <string name="show_longpress_hints_summary">قوللايدىغان كۇنۇپكىنىڭ ئۇزۇن بېسىلسا ئەسكەرتىشىنى كۆرسىتىدۇ</string>
     <string name="show_emoji_key">چىراي ئىپادە كۇنۇپكىسىنى كۆرسەت</string>

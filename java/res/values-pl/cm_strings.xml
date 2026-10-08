@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Rozmiar klawiatury</string>
     <string name="number_row">Wiersz numeryczny</string>
     <string name="number_row_summary">Zawsze wyświetlaj wiersz numeryczny dla wszystkich układów z 4 rzędami klawiszy</string>
+    <string name="number_row_password">Wiersz z cyframi dla haseł</string>
+    <string name="number_row_password_summary">Zawsze wyświetlaj wiersz z cyframi we wszystkich układach zawierających 4 rzędy klawiszy do wprowadzania hasła</string>
     <string name="space_trackpad">Klawisz spacji jako gładzik</string>
     <string name="space_trackpad_summary">Przesuwaj palcem na spacji, aby poruszać kursorem</string>
+    <string name="backspace_trackpad">Klawisz \"backspace\" na gładziku</string>
+    <string name="backspace_trackpad_summary">Przesuwaj palcem po klawiszu \"backspace\", aby usuwać słowa</string>
     <string name="show_longpress_hints">Pokazuj podpowiedzi długiego przytrzymania klawisza</string>
     <string name="show_longpress_hints_summary">Wyświetla podpowiedzi długiego przytrzymania dla obsługiwanych klawiszy</string>
     <string name="show_emoji_key">Pokazuj przycisk emoji</string>

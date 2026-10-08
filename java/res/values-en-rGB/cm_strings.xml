@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Keyboard height scale</string>
     <string name="number_row">Number row</string>
     <string name="number_row_summary">Always show a number row for all layouts that feature 4 rows of keys</string>
+    <string name="number_row_password">Number row for passwords</string>
+    <string name="number_row_password_summary">Always show a number row for all layouts that feature 4 rows of keys for password input</string>
     <string name="space_trackpad">Space bar trackpad</string>
     <string name="space_trackpad_summary">Swipe on the space bar to move the cursor</string>
+    <string name="backspace_trackpad">Backspace key trackpad</string>
+    <string name="backspace_trackpad_summary">Swipe on the backspace key to delete words</string>
     <string name="show_longpress_hints">Show long-press key hints</string>
     <string name="show_longpress_hints_summary">Shows long-press hints for supported keys</string>
     <string name="show_emoji_key">Show emoji key</string>

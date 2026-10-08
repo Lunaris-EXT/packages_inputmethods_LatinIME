@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Scară înălţime tastatură</string>
     <string name="number_row">Rând de numere</string>
     <string name="number_row_summary">Întotdeauna arată un rând de numere pentru toate layout-urile care prezintă 4 rânduri de taste</string>
+    <string name="number_row_password">Rând cu cifre pentru parole</string>
+    <string name="number_row_password_summary">Afișează întotdeauna un rând de numere pentru toate aspectele care prezintă 4 rânduri de taste pentru introducerea parolei</string>
     <string name="space_trackpad">Trackpad pe bara de spațiu</string>
     <string name="space_trackpad_summary">Glisați pe bara de spațiu pentru a muta cursorul</string>
+    <string name="backspace_trackpad">Trackpad cu tasta backspace</string>
+    <string name="backspace_trackpad_summary">Glisați pe tasta backspace pentru a șterge cuvintele</string>
     <string name="show_longpress_hints">Arată sugestii taste pentru apăsare lungă</string>
     <string name="show_longpress_hints_summary">Afişează indicii de apăsare lungă pentru tastele acceptate</string>
     <string name="show_emoji_key">Arată tastă emoji</string>

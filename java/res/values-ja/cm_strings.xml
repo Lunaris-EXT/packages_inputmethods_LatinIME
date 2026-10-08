@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">キーボードの高さ</string>
     <string name="number_row">数の行</string>
     <string name="number_row_summary">4行のキーを持つすべてのレイアウトに、常に数の行を表示します</string>
+    <string name="number_row_password">パスワード用の数字列</string>
+    <string name="number_row_password_summary">すべてのレイアウトで、パスワード入力用に4行のキーを備えた数字行を常に表示します</string>
     <string name="space_trackpad">スペースバーのトラックパッド</string>
     <string name="space_trackpad_summary">スペースバーをスワイプしてカーソルを移動します</string>
+    <string name="backspace_trackpad">バックスペースキーのトラックパッド</string>
+    <string name="backspace_trackpad_summary">バックスペースキーをスワイプして単語を削除します</string>
     <string name="show_longpress_hints">長押しのヒントを表示</string>
     <string name="show_longpress_hints_summary">サポートしているキーでは長押しでヒントを表示します</string>
     <string name="show_emoji_key">絵文字キーを表示</string>

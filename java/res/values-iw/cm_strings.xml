@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">התאמת גובה המקלדת</string>
     <string name="number_row">שורת מספרים</string>
     <string name="number_row_summary">להציג תמיד שורת מספרים בכל הפריסות הכוללות 4 שורות של מקשים</string>
+    <string name="number_row_password">שורת מספרים לסיסמאות</string>
+    <string name="number_row_password_summary">הצגת שורת מספרים בכל פריסה הכוללת 4 שורות מקשים בעת הזנת סיסמאות</string>
     <string name="space_trackpad">מקש רווח כמשטח מגע</string>
     <string name="space_trackpad_summary">החלקה על מקש הרווח להזזת הסמן</string>
+    <string name="backspace_trackpad">החלקה על מקש המחיקה</string>
+    <string name="backspace_trackpad_summary">החלקה על מקש המחיקה למחיקת מילים</string>
     <string name="show_longpress_hints">הצגת רמזים בלחיצה ארוכה על מקש</string>
     <string name="show_longpress_hints_summary">הצגת רמזים בלחיצה ארוכה על מקשים נתמכים</string>
     <string name="show_emoji_key">הצגת מקש אמוג\'י</string>

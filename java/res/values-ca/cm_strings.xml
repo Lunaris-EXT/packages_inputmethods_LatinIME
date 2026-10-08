@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Escala de l\'alçada del teclat</string>
     <string name="number_row">Número de fila</string>
     <string name="number_row_summary">Mostra sempre el número de fila per totes les disposicions que inclouen 4 files de tecles</string>
+    <string name="number_row_password">Fila numèrica per a contrasenyes</string>
+    <string name="number_row_password_summary">Mostra sempre una fila numèrica per a tots els dissenys que incloguin 4 files de tecles per a la introducció de contrasenyes.</string>
     <string name="space_trackpad">Ratolí tàctil a la barra espaiadora</string>
     <string name="space_trackpad_summary">Feu lliscar el dit per moure el cursor</string>
+    <string name="backspace_trackpad">Botó enrere del ratolí tàctil</string>
+    <string name="backspace_trackpad_summary">Feu lliscar el dit amb la tecla de retrocés per suprimir paraules</string>
     <string name="show_longpress_hints">Consells de les tecles en mantenir-les premudes</string>
     <string name="show_longpress_hints_summary">Manteniu premut per mostrar els consells de les tecles</string>
     <string name="show_emoji_key">Mostra la tecla emoji</string>

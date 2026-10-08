@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">A billentyűzetmagasság értéke</string>
     <string name="number_row">Számkarakterek</string>
     <string name="number_row_summary">Négy gombsoros elrendezésnél mindig meg fogja jeleníteni a számkarakterek sorát is</string>
+    <string name="number_row_password">Számok sora a jelszavakhoz</string>
+    <string name="number_row_password_summary">A jelszóbevitel megkönnyítésére mindig jelenjen meg a számsor minden olyan elrendezésen, amely négy sort tartalmaz</string>
     <string name="space_trackpad">Szóköz, mint egérpad</string>
     <string name="space_trackpad_summary">A kurzor mozgatásához húzza az ujját a szóköz billentyűn</string>
+    <string name="backspace_trackpad">Szótörlés csúsztatással</string>
+    <string name="backspace_trackpad_summary">A törlés (backspace) gombon csúsztatás törli az egész szót</string>
     <string name="show_longpress_hints">Tippek megjelenítése hosszan nyomáskor</string>
     <string name="show_longpress_hints_summary">A támogatott billentyűkön, hosszan lenyomáskor tippeket jelenít meg</string>
     <string name="show_emoji_key">Emoji-gomb megjelenítése</string>

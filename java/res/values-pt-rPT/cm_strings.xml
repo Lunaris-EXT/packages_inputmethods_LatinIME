@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Altura do teclado</string>
     <string name="number_row">Linha numérica</string>
     <string name="number_row_summary">Mostrar sempre uma linha com números para todos os esquemas que tenham 4 linhas de teclas</string>
+    <string name="number_row_password">Linha de números para palavras-passe</string>
+    <string name="number_row_password_summary">Mostrar sempre uma linha com números para todos os esquemas que tenham 4 linhas de teclas em campos para palavras-passe</string>
     <string name="space_trackpad">Mover com barra de espaço</string>
     <string name="space_trackpad_summary">Deslize na barra de espaço para mover o cursor</string>
+    <string name="backspace_trackpad">Deslizar na tecla de apagar</string>
+    <string name="backspace_trackpad_summary">Deslize na tecla de apagar para apagar palavras</string>
     <string name="show_longpress_hints">Mostrar dicas com pressão longa</string>
     <string name="show_longpress_hints_summary">Mostrar dicas ao pressionar longamente em teclas suportadas</string>
     <string name="show_emoji_key">Mostrar tecla de emojis</string>

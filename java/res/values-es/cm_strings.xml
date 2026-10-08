@@ -20,8 +20,12 @@
     <string name="prefs_keyboard_height_scale">Escala de altura del teclado</string>
     <string name="number_row">Fila de números</string>
     <string name="number_row_summary">Mostrar siempre una fila de números para todos los diseños que tengan 4 filas de teclas</string>
+    <string name="number_row_password">Fila numérica para contraseñas</string>
+    <string name="number_row_password_summary">Mostrar siempre una fila numérica en todos los diseños que cuenten con cuatro filas de teclas para introducir la contraseña</string>
     <string name="space_trackpad">Panel táctil de barra espaciadora</string>
     <string name="space_trackpad_summary">Desliza sobre la barra espaciadora para mover el cursor</string>
+    <string name="backspace_trackpad">Tecla de retroceso del panel táctil</string>
+    <string name="backspace_trackpad_summary">Desliza el dedo sobre la tecla de retroceso para borrar palabras</string>
     <string name="show_longpress_hints">Mostrar sugerencias de teclas pulsadas prolongadamente</string>
     <string name="show_longpress_hints_summary">Muestra sugerencias de pulsación prolongada para las teclas compatibles</string>
     <string name="show_emoji_key">Mostrar tecla de emoticonos</string>
